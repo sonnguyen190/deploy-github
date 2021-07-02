@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sonnguyen190.github.io/deploy-github/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/sonnguyen190.github.io/deploy-github/static/js/main.7eb038cc.chunk.js",
+    "main.js.map": "/sonnguyen190.github.io/deploy-github/static/js/main.7eb038cc.chunk.js.map",
+    "runtime-main.js": "/sonnguyen190.github.io/deploy-github/static/js/runtime-main.4eb41b74.js",
+    "runtime-main.js.map": "/sonnguyen190.github.io/deploy-github/static/js/runtime-main.4eb41b74.js.map",
+    "static/js/2.3eb14a68.chunk.js": "/sonnguyen190.github.io/deploy-github/static/js/2.3eb14a68.chunk.js",
+    "static/js/2.3eb14a68.chunk.js.map": "/sonnguyen190.github.io/deploy-github/static/js/2.3eb14a68.chunk.js.map",
+    "static/js/3.81c9a78f.chunk.js": "/sonnguyen190.github.io/deploy-github/static/js/3.81c9a78f.chunk.js",
+    "static/js/3.81c9a78f.chunk.js.map": "/sonnguyen190.github.io/deploy-github/static/js/3.81c9a78f.chunk.js.map",
+    "index.html": "/sonnguyen190.github.io/deploy-github/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/sonnguyen190.github.io/deploy-github/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.3eb14a68.chunk.js.LICENSE.txt": "/sonnguyen190.github.io/deploy-github/static/js/2.3eb14a68.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sonnguyen190.github.io/deploy-github/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4eb41b74.js",
+    "static/js/2.3eb14a68.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.7eb038cc.chunk.js"
+  ]
+}
